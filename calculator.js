@@ -1,7 +1,7 @@
 
 
 const num1=  parseFloat(prompt('Enter first number'));
-const operator= prompt('This calculator only perform simple arithmetic using (either +, -, * or / ): ');
+const operator= prompt('Enter any of the operators (either +, -, * or / ): ');
 const num2=  parseFloat(prompt('Enter second number'));
 
 let result;
